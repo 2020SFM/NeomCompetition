@@ -1,1 +1,1 @@
-# NeomCompetition
+# Neom Competition
